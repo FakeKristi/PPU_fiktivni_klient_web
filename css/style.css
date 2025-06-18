@@ -14,7 +14,7 @@ body{
   }
 .hero {
     min-height: 85h;
-    background-image: url("bg-image1.png");
+    background-image: url("/img/bg-image1.png");
     background-position-x: left;
     background-position-y: bottom;
     background-repeat: no-repeat;
@@ -47,7 +47,6 @@ body{
 @media (max-width: 800px) {
     .hero {
         min-height: 85vh;
-        background-image: url("bg-image1.png");
         background-position-x: left;
         background-position-y: bottom;
         background-repeat: no-repeat;
